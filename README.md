@@ -1,4 +1,7 @@
-ansible-rabbitmq
-================
+# RabbitMQ for Ansible
 
-Various Modules and Recipes for RabbitMQ
+Useful tools to help manage RabbitMQ via Ansible. 
+
+## Modules
+
+- rabbitmq_user: Configure users and access to vhosts using the HTTP management API
